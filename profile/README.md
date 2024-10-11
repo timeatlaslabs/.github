@@ -1,6 +1,6 @@
 # Who are we?
 
-We are a finnish startup,
+We are a Finnish startup,
 
 # What are we working on?
 
